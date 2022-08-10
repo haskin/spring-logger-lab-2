@@ -1,0 +1,14 @@
+INF [THREAD:restartedMain] dev.haskin.springsecuritylab1.Springsecuritylab1Application 
+ 		 Starting Springsecuritylab1Application using Java 11.0.15 on DESKTOP-PIMKCKI with PID 3452 (C:\Users\Calder Schecterson\Flatiron\labs\08-spring-testing-security-logging\spring-logger-lab-2\target\classes started by Calder Schecterson in C:\Users\Calder Schecterson\Flatiron\labs\08-spring-testing-security-logging\spring-logger-lab-2) 
+DEB [THREAD:restartedMain] dev.haskin.springsecuritylab1.Springsecuritylab1Application 
+ 		 Running with Spring Boot v2.7.2, Spring v5.3.22 
+INF [THREAD:restartedMain] dev.haskin.springsecuritylab1.Springsecuritylab1Application 
+ 		 No active profile set, falling back to 1 default profile: "default" 
+INF [THREAD:restartedMain] dev.haskin.springsecuritylab1.Springsecuritylab1Application 
+ 		 Started Springsecuritylab1Application in 2.536 seconds (JVM running for 3.22) 
+TRA [THREAD:http-nio-8080-exec-3] dev.haskin.springsecuritylab1.controller.CryptoController 
+ 		 entered getting crypto by name 
+INF [THREAD:http-nio-8080-exec-3] dev.haskin.springsecuritylab1.controller.CryptoController 
+ 		 Value of retrieved cryptocurrency: 1827.2565663777169939 USD 
+TRA [THREAD:http-nio-8080-exec-3] dev.haskin.springsecuritylab1.controller.CryptoController 
+ 		 exiting getting crypto by name 
